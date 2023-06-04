@@ -30,4 +30,4 @@ Antes de ejecutar este proyecto, asegúrate de cumplir con los siguientes requis
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas y agradecidas. Si deseas colaborar con este proyecto.
+Las contribuciones son bienvenidas y agradecidas.
