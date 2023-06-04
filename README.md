@@ -5,7 +5,7 @@ Este proyecto de UiPath automatiza el proceso de generación masiva de VEPs (Vol
 ## Características principales
 
 - Generación masiva de VEPs: El robot automatiza la generación de VEPs en la página de AFIP de manera rápida y eficiente.
-- Datos de entrada: El robor toma los datos ingresados en el excel Lista de VEPs, por lo que para que el mismo debe estar completo.
+- Datos de entrada: El robot toma los datos ingresados en el excel Lista de VEPs, por lo que para que el mismo funcione, debe estar completo.
 
 ## Requisitos previos
 
