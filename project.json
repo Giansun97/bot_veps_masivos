@@ -1,5 +1,6 @@
 {
   "name": "Bot_Veps_Masivos",
+  "projectId": "1d56d143-dbc0-4df6-96bb-6b860754c264",
   "description": "Este robot ingresa al usuario de AFIP de cada contribuyente y genera veps de forma masiva, ademas los VEPs generados se envian por mail.",
   "main": "Bot_Veps_Masivos.xaml",
   "dependencies": {
@@ -21,6 +22,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
